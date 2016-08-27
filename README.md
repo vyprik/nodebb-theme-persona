@@ -1,7 +1,7 @@
-Persona theme for NodeBB
+Persona theme (Green) for NodeBB
 ====================
 
-Persona is the new default theme for NodeBB as of v0.7.1
+Persona Green is the new default theme for NodeBB as of v0.7.1
 
 ## Addons
 
